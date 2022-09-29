@@ -244,4 +244,4 @@ function draw() {
       klickCounter = 1;
     }
   }
-}
+} 
