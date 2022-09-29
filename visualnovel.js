@@ -1,7 +1,7 @@
 let startimg;
 
 function preload() {
-  createCanvas(960, 600);
+  createCanvas(9600, 6000);
   startImg = loadImage("/media/backgrounds/gametitle.png");
 }
 
