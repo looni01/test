@@ -12,8 +12,8 @@ function draw(){
   //image(startImg, 0, 0);
   image(giff,0,0);
   fill(0);
-    textSize(20);
-  text("Hallo", 0,0);
+  textSize(290);
+  text("Hallo", 10,10);
 }
 
 
