@@ -1,4 +1,11 @@
+/*
 body {
   padding: 0;
   margin: 0;
+}
+*/
+
+canvas{
+margin: 0auto
+display: block
 }
