@@ -4,7 +4,7 @@ let giff;
 function preload() {
   createCanvas(9600, 6000);
   startImg = loadImage("/media/backgrounds/gametitle.png");
-  giff("/media/backgrounds/ui-red.gif");
+  giff = loadImage("/media/backgrounds/ui-red.gif");
 }
 
 function draw(){
